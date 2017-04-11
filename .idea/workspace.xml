@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78249cb8-fdf8-4e3b-8b0f-8b8c2b74d2d5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="shop-listing1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/shop-listing1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="626" column="42" lean-forward="false" selection-start-line="626" selection-start-column="42" selection-end-line="626" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/footer.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="129" column="123" lean-forward="false" selection-start-line="129" selection-start-column="123" selection-end-line="129" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/header.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/category/view.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toolbar.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list/toolbar.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78">
+              <caret line="65" column="112" lean-forward="false" selection-start-line="65" selection-start-column="112" selection-end-line="65" selection-end-column="112" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkout</find>
+      <find>opc</find>
+      <find>.opc</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/head.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/newsletter/subscribe_footer.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/page.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/footer.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/catalogsearch.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalogsearch/custom_form.mini.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/best_sellers_products.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/hot_deals.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/slider_product.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/contacts.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/contacts/form.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/featured_product.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/1column.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/breadcrumbs.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/3columns.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/2columns-right.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/catalog.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/2columns-left.phtml" />
+        <option value="$PROJECT_DIR$/skin/frontend/default/helpingants/css/style.css" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list/toolbar.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/category/view.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newsletter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contacts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="category" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento1932" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpingants" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\xampp\htdocs\magento1932\app\design\frontend\default\helpingants\template\page" />
+      <recent name="G:\xampp\htdocs\magento1932\app\design\frontend\default\helpingants\template\catalog\product" />
+      <recent name="G:\xampp\htdocs\magento1932\app\design\frontend\default\helpingants\template\catalogsearch" />
+      <recent name="G:\xampp\htdocs\magento1932\app\design\frontend\default\helpingants\template\newsletter" />
+      <recent name="G:\xampp\htdocs\magento1932\skin\frontend\default\helpingants\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78249cb8-fdf8-4e3b-8b0f-8b8c2b74d2d5" name="Default" comment="" />
+      <created>1491825822510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491825822510</updated>
+      <workItem from="1491825823848" duration="18764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20877458" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/helpingants/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/home_v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="113" column="126" lean-forward="false" selection-start-line="113" selection-start-column="117" selection-end-line="113" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/home_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="332" column="33" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="332" selection-end-column="33" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/home_v4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/newsletter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="38" column="109" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/top.links.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/newsletter/subscribe_footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalogsearch/custom_form.mini.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="54" lean-forward="true" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalogsearch/form.mini.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" column="98" lean-forward="true" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/catalogsearch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="32" column="104" lean-forward="false" selection-start-line="32" selection-start-column="104" selection-end-line="32" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="121" column="96" lean-forward="false" selection-start-line="121" selection-start-column="80" selection-end-line="121" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/topmenu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/head.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/hot_deals.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <marker date="1491832788234" expanded="true" signature="2279:2467" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="2748:2936" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="3149:3273" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="3214:3273" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="3505:3792" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="3973:4529" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4026:4494" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4712:5006" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4750:5006" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4815:5006" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4872:5006" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="4939:5006" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="5177:5365" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="5646:5834" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="6115:6303" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="6516:6640" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="6581:6640" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="6872:7159" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="7340:7896" ph="..." />
+            <marker date="1491832788234" expanded="true" signature="7393:7861" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/contacts/form.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="81" column="92" lean-forward="false" selection-start-line="81" selection-start-column="92" selection-end-line="81" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/contacts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="40" column="63" lean-forward="false" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/slider_product.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="323" column="152" lean-forward="false" selection-start-line="323" selection-start-column="152" selection-end-line="323" selection-end-column="152" />
+          <folding>
+            <marker date="1491834183803" expanded="true" signature="3161:3351" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="3630:3820" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="3970:4309" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="4419:5358" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="4468:4664" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="4781:4947" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="4992:5331" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="5441:6381" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="5490:5687" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="5804:5970" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="6015:6354" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="6464:7405" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="6513:6711" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="6828:6994" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="7039:7378" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="7488:8425" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="7537:7731" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="7848:8014" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="8059:8398" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="8508:9441" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="8557:8755" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="8872:9030" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="9075:9414" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="9524:10461" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="9573:9776" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="9893:10050" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="10095:10434" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="10720:11273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="10759:11273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="10801:11273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="10850:11046" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="11147:11273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="11210:11273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="11441:11622" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="11892:12073" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="12343:12524" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="12674:13013" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="13123:14062" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="13172:13368" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="13485:13651" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="13696:14035" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="14145:15084" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="14194:14390" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="14507:14673" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="14718:15057" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="15167:16106" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="15216:15412" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="15529:15695" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="15740:16079" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="16189:17128" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="16238:16434" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="16551:16717" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="16762:17101" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="17211:18150" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="17260:17456" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="17573:17739" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="17784:18123" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="18233:19172" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="18282:18478" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="18595:18761" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="18806:19145" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19396:19949" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19435:19949" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19477:19949" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19526:19722" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19823:19949" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="19886:19949" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="20117:20298" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="20568:20670" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="20568:20749" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="21019:21121" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="21019:21200" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="21350:21689" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="21799:22738" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="21848:22044" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="22161:22251" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="22161:22327" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="22372:22711" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="22821:23760" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="22870:23066" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="23183:23273" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="23183:23349" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="23394:23733" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="23843:24782" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="23892:24088" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="24205:24295" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="24205:24371" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="24416:24755" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="24865:25804" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="24914:25110" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="25227:25317" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="25227:25393" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="25438:25777" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="25887:26826" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="25936:26132" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="26249:26339" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="26249:26415" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="26460:26799" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="26909:27848" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="26958:27154" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="27271:27361" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="27271:27437" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="27482:27821" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28071:28624" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28110:28624" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28152:28624" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28201:28397" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28498:28624" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28561:28624" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28792:28894" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="28792:28973" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="29243:29345" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="29243:29424" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="29694:29796" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="29694:29875" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="30025:30364" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="30474:31413" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="30523:30719" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="30836:30926" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="30836:31002" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="31047:31386" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="31496:32435" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="31545:31741" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="31858:31948" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="31858:32024" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="32069:32408" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="32518:32970" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="32567:32763" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="32880:32970" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="33091:33430" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="33540:33992" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="33589:33785" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="33902:33992" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="34113:34452" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="34562:35014" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="34611:34807" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="34924:35014" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="35135:35474" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="35584:36036" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="35633:35829" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="35946:36036" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="36157:36496" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="36747:37300" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="36786:37300" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="36828:37300" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="36877:37073" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="37174:37300" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="37237:37300" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="37469:37571" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="37921:38023" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="38372:38474" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="38703:39042" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="39152:39604" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="39201:39397" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="39514:39604" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="39725:40064" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="40174:40626" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="40223:40419" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="40536:40626" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="40747:41086" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="41196:41648" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="41245:41441" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="41558:41648" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="41769:42108" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="42218:42670" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="42267:42463" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="42580:42670" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="42791:43130" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="43240:43692" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="43289:43485" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="43602:43692" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="43813:44152" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="44262:44714" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="44311:44507" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="44624:44714" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="44835:45174" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45425:45978" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45464:45978" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45506:45978" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45555:45751" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45852:45978" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="45915:45978" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="46146:46248" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="46597:46699" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="47048:47150" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="47379:47718" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="47828:48280" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="47877:48073" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="48190:48280" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="48401:48740" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="48850:49302" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="48899:49095" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="49212:49302" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="49423:49762" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="49872:50324" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="49921:50117" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="50234:50324" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="50445:50784" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="50894:51346" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="50943:51139" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="51256:51346" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="51467:51806" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="51916:52368" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="51965:52161" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="52278:52368" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="52489:52828" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="52938:53390" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="52987:53183" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="53300:53390" ph="..." />
+            <marker date="1491834183803" expanded="true" signature="53511:53850" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/featured_product.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="203" column="110" lean-forward="false" selection-start-line="203" selection-start-column="110" selection-end-line="203" selection-end-column="110" />
+          <folding>
+            <marker date="1491836679422" expanded="true" signature="1486:2156" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="1810:2133" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="2291:3289" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="2352:2494" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="2540:3225" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="2879:3202" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="3360:4350" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="3421:3563" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="3609:4286" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="3940:4263" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="4463:9131" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="4508:4576" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="4610:6053" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="4671:4813" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="4859:5989" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="5175:5602" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="5643:5966" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="6124:7566" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="6185:6327" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="6373:7502" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="6688:7115" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="7156:7479" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="7637:9079" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="7698:7840" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="7886:9015" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="8201:8628" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="8669:8992" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9192:12469" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9237:9302" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9336:10302" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9397:9539" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9585:10238" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="9892:10215" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="10373:11355" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="10434:10576" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="10622:11291" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="10945:11268" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="11426:12417" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="11487:11629" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="11675:12353" ph="..." />
+            <marker date="1491836679422" expanded="true" signature="12007:12330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/breadcrumbs.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="87" lean-forward="false" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="416" column="77" lean-forward="false" selection-start-line="415" selection-start-column="8" selection-end-line="416" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/1column.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/3columns__bk.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/best_sellers_products.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="861" column="0" lean-forward="false" selection-start-line="861" selection-start-column="0" selection-end-line="861" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/3columns.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/blog-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3179">
+          <caret line="285" column="19" lean-forward="true" selection-start-line="285" selection-start-column="19" selection-end-line="285" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/home_v3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4162">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="75" column="69" lean-forward="false" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list/toolbar.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="65" column="112" lean-forward="false" selection-start-line="65" selection-start-column="112" selection-end-line="65" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/2columns-left.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="296" column="42" lean-forward="false" selection-start-line="296" selection-start-column="42" selection-end-line="296" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/helpingants/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="1803" column="133" lean-forward="false" selection-start-line="1803" selection-start-column="35" selection-end-line="1803" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/helpingants/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="1295" column="15" lean-forward="false" selection-start-line="1295" selection-start-column="15" selection-end-line="1295" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_demo/magento_demo/demo/shop-listing1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="626" column="42" lean-forward="false" selection-start-line="626" selection-start-column="42" selection-end-line="626" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="129" column="123" lean-forward="false" selection-start-line="129" selection-start-column="123" selection-end-line="129" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/product/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/helpingants/template/catalog/category/view.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
